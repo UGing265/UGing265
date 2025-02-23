@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm This is MShiroru</h1>
+<h1 align="center">Hi 👋, This is MShiroru</h1>
 <h3 align="center">I'm a Software Engineering, from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uging265&label=Profile%20views&color=0e75b6&style=flat" alt="uging265" /> </p>
