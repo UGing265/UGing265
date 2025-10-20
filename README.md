@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Software Engineering, from VietNam</h3>
 <h4 align="center"> I want to become senior Back-End </h4>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2991185" style='border:none;'></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uging265&label=Profile%20views&color=0e75b6&style=flat" alt="uging265" /> </p>
 
