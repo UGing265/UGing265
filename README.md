@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Software Engineering, from VietNam</h3>
 <h4 align="center"> I want to become senior Back-End </h4>
 
+<h3 align="left"> My TryHackMe Journey</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/CyberMShiroru" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/CyberMShiroru.png" alt="Your Image Badge" />
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uging265&label=Profile%20views&color=0e75b6&style=flat" alt="uging265" /> </p>
 
