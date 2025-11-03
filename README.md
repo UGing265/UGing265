@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uging265&show_icons=true&locale=en" alt="uging265" /></p>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="duongquoctb" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Support & buy me a coffee :)" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 ![hihi snake happy](https://raw.githubusercontent.com/UGing265/UGing265/refs/heads/output/github-snake-dark.svg)
