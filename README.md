@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uging265&show_icons=true&locale=en" alt="uging265" /></p>
 
-<a href="https://www.buymeacoffee.com/duongquoctb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+### Remember to donate me to buy a coffee :)
+<a href="https://www.buymeacoffee.com/duongquoctb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee :(" style="height: 60px !important;width: 217px !important;" ></a>
 
 ![hihi snake happy](https://raw.githubusercontent.com/UGing265/UGing265/refs/heads/output/github-snake-dark.svg)
