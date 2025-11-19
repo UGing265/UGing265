@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, This is MShiroru Thai</h1>
 <h3 align="center">I'm a Software Engineering, from VietNam</h3>
-<h4 align="center"> I want to become senior Back-End </h4>
+<h4 align="center"> I want to become  Senior Developer Back-End </h4>
 
 <h3 align="left"> My TryHackMe Journey</h3>
 <p align="left">
